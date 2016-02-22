@@ -6,7 +6,6 @@ tags: blog, jekyll
 categories: blog-meta
 ---
 
-# Remove
 
 So I am back to blogging on [www.BrendonBody.com](http://www.brendonbody.com/ "Dormeo Ergo Sum") after a 3 month long hiatus. 
 
