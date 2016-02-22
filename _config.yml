@@ -39,8 +39,8 @@ author:
   email: "brendon.body@gmail.com"
   github: bbody   # eg. daattali
   twitter: DormeoES   # eg. daattali
-  linkedin: brendonbody  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: dormeoes  # eg. "3943160/daattali"
+  linkedin: in/brendonbody  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: 1917542/dormeoes  # eg. "3943160/daattali"
  
 # Select which links to show in the footer
 footer-links-active:
