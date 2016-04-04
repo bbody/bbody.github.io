@@ -13,4 +13,5 @@ So instead of just rebooting, I decided to rethink how I approach my blog. I doc
 
 - [Blog Rethink Part 1: I've made a huge mistake or how I deleted my blog](https://medium.com/@brendonbody/blog-rethink-part-1-Medium here:i-ve-made-a-huge-mistake-or-how-i-deleted-my-blog-fe6d56fa6e1e "Blog Rethink Part 1")
 - [Blog Rethink Part 2: What the blog am I doing?](https://medium.com/@brendonbody/blog-rethink-part-2-5086b15c6478 "Blog Rethink Part 2")
-
+- [Blog Rethink Part 3: When Hyde came to play](https://medium.com/@brendonbody/blog-rethink-part-3-4b651f94d5f "Blog Rethink Part 3")
+- [Blog Rethink Part 4: Thunderbirds are go](https://medium.com/@brendonbody/blog-rethink-part-4-c291e499fb06 "Blog Rethink Part 4")
