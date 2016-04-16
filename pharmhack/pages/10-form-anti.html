@@ -1,0 +1,31 @@
+<!-- form-interests.html -->
+<label>Are you taking antidepressants?</label>
+<div class="form-group">
+    <div class="radio">
+        <label>
+           <input type="radio" ng-model="formData.anti" value="yes" checked>
+           Yes
+        </label>
+    </div>
+    <div class="radio">
+        <label>
+            <input type="radio" ng-model="formData.anti" value="no">
+            No
+        </label>
+    </div>
+</div>
+
+<div class="form-group row">
+<div class="col-xs-6 col-xs-offset-3">
+    <div ng-if="formData.anti === 'yes'">
+            <a ui-sref="form.pharmacy" class="btn btn-block btn-info">
+        Next Section <span class="glyphicon glyphicon-circle-arrow-right"></span>
+        </a>
+    </div>
+    <div ng-if="formData.anti === 'no'">
+        <a ui-sref="form.cold" class="btn btn-block btn-info">
+        Next Section <span class="glyphicon glyphicon-circle-arrow-right"></span>
+        </a>
+    </div>
+</div>
+</div>

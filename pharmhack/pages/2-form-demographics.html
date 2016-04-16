@@ -1,0 +1,58 @@
+<!-- form-interests.html -->
+<label>What is your gender?</label>
+<div class="form-group">
+    <div class="radio">
+        <label>
+           <input type="radio" ng-model="formData.gender" value="male" checked>
+           Male
+        </label>
+    </div>
+    <div class="radio">
+        <label>
+            <input type="radio" ng-model="formData.gender" value="female">
+            Female
+        </label>
+    </div>
+</div>
+
+<div class="form-group">
+    <label for="location">What is your current location?</label>
+    <input id="location" ng-model="formData.location" type="text" class="form-control" placeholder="Sydney">
+</div>
+
+<div class="form-group">
+    <label for="age">What is your age?</label>
+    <input id="age" ng-model="formData.age" type="text" class="form-control" placeholder="26">
+</div>
+
+<div class="form-group row">
+    <div class="col-xs-6 col-xs-offset-3">
+        <!-- Direct to pregnancy question -->
+        <div ng-if="formData.gender === 'female' && formData.age >= 12">
+                <a ui-sref="form.pregnant" class="btn btn-block btn-info">
+            Next Section <span class="glyphicon glyphicon-circle-arrow-right"></span>
+            </a>
+        </div>
+
+        <!-- Direct to next question -->
+        <div ng-if="(formData.gender === 'male' && formData.age >= 12)">
+            <a ui-sref="form.cough" class="btn btn-block btn-info">
+            Next Section <span class="glyphicon glyphicon-circle-arrow-right"></span>
+            </a>
+        </div>
+
+        <!-- Direct to doctor -->
+        <div ng-if="formData.age < 6">
+            <a ui-sref="form.doctor" class="btn btn-block btn-info">
+            Next Section <span class="glyphicon glyphicon-circle-arrow-right"></span>
+            </a>
+        </div>
+
+        <!-- Direct to pharmacy -->
+        <div ng-if="formData.age >= 6 && formData.age < 12">
+            <a ui-sref="form.pharmacy" class="btn btn-block btn-info">
+            Next Section <span class="glyphicon glyphicon-circle-arrow-right"></span>
+            </a>
+        </div>
+    </div>
+</div>
