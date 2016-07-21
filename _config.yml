@@ -29,6 +29,7 @@ avatar: "/img/descartes.png"
 navbar-links:
   Home: ""
   About Me: "aboutme"
+  Portfolio: "https://www.brendonbody.com/Portfolio"
   
 # --- Footer options --- #
 
