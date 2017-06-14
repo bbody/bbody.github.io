@@ -28,7 +28,7 @@ avatar: "/img/descartes.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme.html"
+  About Me: "aboutme"
   Portfolio: "http://bbody.io/Portfolio"
   
 # --- Footer options --- #
@@ -55,7 +55,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "BrendonBody.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "bbody.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
