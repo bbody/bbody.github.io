@@ -3,7 +3,7 @@ layout: post
 title: Font Readability
 subtitle: Making your copy DRY
 tags: accessibility, fonts
-categories: blog-meta
+categories: accessibility
 ---
 
 # Font readability

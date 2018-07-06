@@ -3,7 +3,7 @@ layout: post
 title: Externalizing Strings in Rails
 subtitle: Making your copy DRY
 tags: ruby-on-rails, externalization, DRY
-categories: blog-meta
+categories: coding
 ---
 
 Regardless of whether you are planning to build a multi-language site or not (Will be covered in a future post), externalising strings is a good programming practice. You could think of it as another way of abstracting different layers of your code further apart.
