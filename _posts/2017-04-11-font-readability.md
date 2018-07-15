@@ -3,10 +3,9 @@ layout: post
 title: Font Readability
 subtitle: Making your copy DRY
 tags: accessibility, fonts
-categories: accessibility
+categories: practical-accessibility
 ---
 
-# Font readability
 One of the easiest changes that can be made to a website to increase usability for all users is setting rational font sizes. Around 1 in 10 people have visual problems, much of that as a result of aging. By not ensuring font sizes are sufficiently large, it is very easy to lose viewers to your website.
 
 In the transition from print to web, many designers have stuck with the mantra that *12 pixels* is the ideal size for text. However the distance of your eyes from the text vastly differs between reading printed material and web content, typically a book is held much closer to the eyes. It is generally adviced that *16px* is the ideal minimum height for [body content](https://developers.google.com/speed/docs/insights/UseLegibleFontSizes), with some disent suggesting *14px* is an absolute minimum. In fact in most browsers *1em*, *1rem* and *100%* font sizes are the same as 16px by default. There are exceptions, personally I will even drop copyright notices below the recommended font sizes and sometimes breadcrumbs (depending on website size/complexity).
