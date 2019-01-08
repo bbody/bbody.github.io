@@ -2,7 +2,7 @@
 layout: post
 title: Test Driven Development
 subtitle: Commonly known as TDD
-tags: testing, tdd, test-driven-development
+tags: testing tdd test-driven-development
 categories: testing
 ---
 

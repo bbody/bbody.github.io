@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 subtitle: ...Again
-tags: blog, jekyll
+tags: blog jekyll
 categories: blog-meta
 ---
 

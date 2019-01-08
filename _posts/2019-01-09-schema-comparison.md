@@ -2,7 +2,7 @@
 layout: post
 title: Schema Comparison
 subtitle: (key, value) pair
-tags: javascript, ECMA6, jest, testing
+tags: javascript ECMA6 jest testing
 categories: tools
 ---
 

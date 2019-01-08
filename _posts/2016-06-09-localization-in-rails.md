@@ -2,7 +2,7 @@
 layout: post
 title: Externalizing Strings in Rails
 subtitle: Making your copy DRY
-tags: ruby-on-rails, externalization, DRY
+tags: ruby-on-rails externalization DRY RoR Rails
 categories: coding
 ---
 

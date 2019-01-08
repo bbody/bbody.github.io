@@ -2,7 +2,7 @@
 layout: post
 title: Font Readability
 subtitle: Making your copy DRY
-tags: accessibility, fonts
+tags: accessibility fonts
 categories: practical-accessibility
 ---
 
