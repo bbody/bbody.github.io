@@ -17,10 +17,12 @@ One problem I constantly have in JavaScript is checking what a object looks like
 ## How to use
 
 ```javascript
-const isObjectMappedToSchema = require('./schema-compare');
+const isObjectMappedToSchema = require('./schema-compare')
 
-if (isObjectMappedToSchema({key: {sub_key: "Something"}}, {key: {sub_key: true}})) {
-	console.log("Payload matches Schema");
+if (isObjectMappedToSchema(
+		{key: {sub_key: "Something"}},
+		{key: {sub_key: true}})) {
+	console.log("Payload matches Schema")
 }
 ```
 
