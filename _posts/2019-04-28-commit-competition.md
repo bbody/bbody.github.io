@@ -12,7 +12,7 @@ A few years ago I read an article on the positives of [Github streaks](https://m
 
 ## The story
 
-So I challenged a friend to compete on a Github commit streak, despite winning I still felt it was too punishing. So instead we ecided to compete based on most days within a time period. Being newly unemployed at the time and preparing for job applications, I decided to list out a few projects I wanted to build to upskill and try new technologies. One of them was to automate this process and build a dashboard to show multiple users commit statistics. Despite finding a job not long after, I decided to still build it. This became [Commit Comp](https://commit-comp.bbody.io/).
+So I challenged a friend to compete on a Github commit streak, despite winning I still felt it was too punishing. So instead we decided to compete based on most days within a time period. Being newly unemployed at the time and preparing for job applications, I decided to list out a few projects I wanted to build to upskill and try new technologies. One of them was to automate this process and build a dashboard to show multiple users commit statistics. Despite finding a job not long after, I decided to still build it. This became [Commit Comp](https://commit-comp.bbody.io/).
 
 ![Github commit heatmap](https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-04-28-commit-competition/screenshot.png)
 
