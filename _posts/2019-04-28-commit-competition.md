@@ -8,7 +8,9 @@ categories: projects
 
 A few years ago I read an article on the positives of [Github streaks](https://medium.freecodecamp.org/lessons-from-my-month-long-github-commit-streak-b8f3167d34ac) which stuck with me. After softly pushing myself to follow this advice with only limited success, I decided to up the steaks with a bit of [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion) as motivation.
 
+<p class="center">
 ![Github commit heatmap](https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-04-28-commit-competition/commits.png)
+</p>
 
 ## The story
 

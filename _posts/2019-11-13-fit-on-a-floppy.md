@@ -12,7 +12,9 @@ When I worked in an E-commerce company, performance was important although to th
 
 I think it stuck with me because of the physical reminder that such am [expansive game fitting on just 880KB](https://en.wikipedia.org/wiki/Frontier:_Elite_II#Development_and_release).
 
+<p class="center">
 ![Floppy Disk](https://fitonafloppy.website/images/floppy.jpg)
+</p>
 
 This lead me to think of a website 1.44mb as a (very loose) rule of thumb, so I came up with the idea of "fit on a floppy". So like many times before in the [middle of the night I purchased the domain](https://www.brendonbody.com/2019/11/11/3am-domains/) but luckily for me there was a sale on the .website TLD. So I purchased [fitonafloppy.website](https://fitonafloppy.website/) in April and left it until September when I picked up tools, definitely not the longest I've let a domain languish.
 
@@ -23,9 +25,9 @@ I didn't want to spend much time building it as in terms of projects it was pret
 
 Normally I stick to using Github Pages for static hosting but since I am already using Lambda I decided to use AWS for all my infrastructure. So for static web hosting I used S3 and for CI/CD I decided to give CodePipeline a try. I think CodePipeline is the 6th CI/CD I've used, I am on the fence about the whole containerization approach but it is growing on me. I definitely do like the visual representation of the pipeline though.
 
-
-![CodePipeline Config](https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-13-fit-on-a-floppy/pipeline.png)
-
+<p class="center">
+    ![CodePipeline Config](https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-13-fit-on-a-floppy/pipeline.png)
+</p>
 Overall the project went quite smoothly, I kept the specifications tight which allowed it to not drag on for too long. I was able to experiment with a few different things which helped me develop, most notably Serverless Architecture. As I look back on this project, I am glad I did it and I hope I can use it to develop better websites going forward.
 
 - [Website](https://fitonafloppy.website/)

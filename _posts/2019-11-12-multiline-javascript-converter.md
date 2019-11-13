@@ -13,7 +13,9 @@ In my first frontend web developer job I worked with AngularJS, yes you read tha
 
 In the AngularJS role I found myself working directives using inline HTML templates.  Very handy to have a template inside JavaScript when it is simple. There is however an awkward grey area where putting the template into its own file seems excessive. I found myself manually turning multiple lined HTML into multiple line JavaScript safe HTML strings. So I created Multiline JavaScript Converter to scratch my itch and increase my productivity.
 
+<p class="center">
 ![Demo of Multiline JavaScript Converter](https://raw.githubusercontent.com/bbody/MultilineJavaScriptConverter/master/screenshots/demo.gif "Demo of Multiline JavaScript Converter")
+</p>
 
 Although the project was started in 2016, in 2018 I picked it up again. Unlike [CMD Resume](https://github.com/bbody/CMD-Resume/), I severely limited the scope. This lead to using Mocha/Chai and Nightwatch for testing to try different testing frameworks. Instead of trying to test a broad range of browsers, I only tested UI on the CI server using Chromium. Combined with using ESLint, the verification process is very quick and easy. Originally I used Travis for CI however more recently I switched to Github Actions, which was an interesting experience.
 
