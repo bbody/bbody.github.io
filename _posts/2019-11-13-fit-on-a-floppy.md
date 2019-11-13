@@ -17,7 +17,7 @@ When I worked in an E-commerce company, performance was important although to th
 I think it stuck with me because of the physical reminder that such am [expansive game fitting on just 880KB](https://en.wikipedia.org/wiki/Frontier:_Elite_II#Development_and_release).
 
 <p class="center">
-    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-13-fit-on-a-floppy/floppy.png" alt="Floppy Disk" />
+    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-13-fit-on-a-floppy/floppy.jpg" alt="Floppy Disk" />
 </p>
 
 This lead me to think of a website 1.44mb as a (very loose) rule of thumb, so I came up with the idea of "fit on a floppy". So like many times before in the [middle of the night I purchased the domain](https://www.brendonbody.com/2019/11/11/3am-domains/) but luckily for me there was a sale on the .website TLD. So I purchased [fitonafloppy.website](https://fitonafloppy.website/) in April and left it until September when I picked up tools, definitely not the longest I've let a domain languish.
