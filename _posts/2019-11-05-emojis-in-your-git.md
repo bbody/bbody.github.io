@@ -14,7 +14,7 @@ Years ago during an interview with a startup I was shown some of the code base o
 So why do people use emoji's in their git commits? Essentially it is to add more information about a commit. Imagine your website is having production problems, your boss is yelling at you, the pressure is on, frontend is broken and you are looking through the commit log to see which of the 20 commits today caused it. You've already gone through the JavaScript console and know that a file is missing. You see 🔥, a file was removed but its references were not. Don't forget to use 🐛 in your commit message! Essentially, the idea is to help quickly categorize commits, ideally in time of emergency being able to quickly find the responsible commit. I can't speak for large distributed repositories like [Atom](https://github.com/atom/atom), however for [CMD Resume](https://github.com/bbody/CMD-Resume) I only found using emojis helpful a few times over the course of nearly 500 commits.
 
 <p class="center">
-![Gitmoji Card](https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-01-emojis-in-your-git/gitmoji-card.png)
+    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-01-emojis-in-your-git/gitmoji-card.png" alt="Gitmoji Card" />
 </p>
 
 Emoji commit schemas:
@@ -27,7 +27,9 @@ Emoji commit schemas:
 There are quite a few standards, often with clashing emoji meanings. Reminding me of the below XKCD comic.
 
 <p class="center">
-![Standards](https://imgs.xkcd.com/comics/standards.png)
+    <a href="https://xkcd.com/927/">
+        <img src="https://imgs.xkcd.com/comics/standards.png" alt="XKCD Standards" />
+    </a>
 </p>
 
 That being said, I stick to [Gitmoji](https://gitmoji.carloscuesta.me/) and have previously used [Git Commit Message StyleGuide](https://slashsbin.com/styleguide-git-commit-message/). 
