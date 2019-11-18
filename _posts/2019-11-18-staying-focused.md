@@ -15,11 +15,11 @@ Grab a piece of paper or a blank page in your notebook, grab a cup of coffee (or
 
 ## 2. Transfer to a Kanban board
 From here I like to take those projects and put them onto a Kanban Board, my go to service is [Trello](https://trello.com/). I sort them into different columns representing their state, as below:
-1. Concept - just an idea at this stage
-2. Promising - an idea that I would like to work on sometime in the future
-3. In Progress - projects that are in progress
-4. Complete - the idea has been executed to a point where it is considered done
-5. Rejected - the idea has been rejected as not feasible, lost interest, etc.
+1. *Concept* - just an idea at this stage
+2. *Promising* - an idea that I would like to work on sometime in the future
+3. *In Progress* - projects that are in progress
+4. *Complete* - the idea has been executed to a point where it is considered done
+5. *Rejected* - the idea has been rejected as not feasible, lost interest, etc.
 
 I find this helps me to get a view of where my ideas are as well as a central places where my they sit, so I never lose an idea.
 
@@ -36,7 +36,7 @@ To me, this is the hardest step. Each idea needs to be defined. The goal of the 
 Now you have everything down on your kanban it is time to prioritize. Within each column prioritize with the more important/urgent task towards the top. I've found this helps with figuring out what to do first.
 
 ## 5. Constrain
-For those familiar with Kanban will be familiar with WIP Limits, where a column has a limit on how many items can be in each column. For my board I use a limit of 2 on In Progress and 5 on Promising which I have found to work for me. If you have too many tasks in these columns, move each to the previous columns. I would warn against having too liberal of a limit on In Progress, it is very important to limit the amount of concurrent tasks.
+For those familiar with Kanban will be familiar with WIP Limits (Work in Progress limits), where a column has a limit on how many items can be in each column. For my board I use a limit of 2 on *In Progress* and 5 on *Promising* which I have found to work for me. If you have too many tasks in these columns, move each to the previous columns. I would warn against having too liberal of a limit on *In Progress*, it is very important to limit the amount of concurrent tasks.
 
 I have found this to be the most important step, granted it takes a lot of self control. For me 2 ongoing tasks is enough to keep me focused but enough flexibility to do something else if I get bored.
 
@@ -50,12 +50,14 @@ I have found this to be the most important step, granted it takes a lot of self 
 This is the fun part! Well, depending on how you view it. Grind towards the goals.
 
 ## 7. Fall off the wagon
-This is going to happen, you are going to fall off the wagon. Maybe your prioritization is wrong. All I can really say, is re-evaluate your idea's prioritize and ideas in progress.
+This is going to happen, you are going to fall off the wagon. It happens to me once in a while, don't worry about it. Maybe your prioritization is wrong. All I can really say, is re-evaluate your idea's prioritization and the ideas in the *In Progress* column.
 
 ## 8. Finish
-Once I move an idea into completed I like to have a ceremony. For me it usually ends with a blog post (for example [CMD Resume](https://www.brendonbody.com/2019/01/07/cmd-resume/), [Fit on a Floppy](https://www.brendonbody.com/2019/11/13/fit-on-a-floppy/), [Multiline JavaScript Converter](https://www.brendonbody.com/2019/11/12/multiline-javascript-converter/), [Commit Comp](https://www.brendonbody.com/2019/04/28/commit-competition/)) and a nice meal. Choose another task and go back to Step 6!
+Once I move an idea into *Complete* I like to have a ceremony. For me it usually ends with a blog post (for example [CMD Resume](https://www.brendonbody.com/2019/01/07/cmd-resume/), [Fit on a Floppy](https://www.brendonbody.com/2019/11/13/fit-on-a-floppy/), [Multiline JavaScript Converter](https://www.brendonbody.com/2019/11/12/multiline-javascript-converter/), [Commit Comp](https://www.brendonbody.com/2019/04/28/commit-competition/)) and a nice meal. Choose another task and go back to Step 6!
 
 ## ?. Clean up
-Once every few weeks I like to do a clean up on the board. Adding more ideas, rejecting ideas that I change my mind on, moving finished ideas to complete, moving items to in progress,  reprioritizing, etc. A Kanban board is pointless if it isn't up to date.
+Once every few weeks I like to do a clean up on the board. Adding more ideas, rejecting ideas that I change my mind on, moving finished ideas to complete, moving items to in progress, reprioritizing, etc. A Kanban board is pointless if it isn't up to date.
 
 I hope you are able to find some use in my process. Like I said, it has been an evolving process which I've moulded for my purpose, but your mileage might vary and customization is required.
+
+[Hacker News Discussion](https://news.ycombinator.com/item?id=21559581)

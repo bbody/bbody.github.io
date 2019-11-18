@@ -37,3 +37,4 @@ Overall the project went quite smoothly, I kept the specifications tight which a
 
 - [Website](https://fitonafloppy.website/)
 - [Github Repository](https://github.com/bbody/fit-on-a-floppy)
+- [Hacker News Discussion](https://news.ycombinator.com/item?id=21526468)

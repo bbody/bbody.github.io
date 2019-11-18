@@ -28,3 +28,4 @@ Overall I think this project served an actual need I had, even if it was only a 
 You can check it out:
 - [Demo](https://jsstringconverter.bbody.io/)
 - [Github Repository](https://github.com/bbody/MultilineJavaScriptConverter)
+- [Hacker News Discussion](https://news.ycombinator.com/item?id=21480346)

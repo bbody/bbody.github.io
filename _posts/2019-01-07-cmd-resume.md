@@ -31,4 +31,8 @@ I hope I can leverage these learnings in my ongoing and future projects.
 
 In conclusion this project has been an amazing learning experience, I have learnt a lot and got to play with a lot of interesting tools that I don't get to use in my daily work. Thank you to all the contributors who have added to the project and steered the direction of CMD Resume.
 
-To find out more you can visit [CMD Resume's Repo](https://github.com/bbody/CMD-Resume) and you can view [an example](https://cmd-resume.bbody.io/).
+- [Demo](https://cmd-resume.bbody.io/)
+- [My Demo](https://cmd-resume.bbody.io/me)
+- [Github Repository](https://github.com/bbody/CMD-Resume)
+- [Hacker News Discussion](https://news.ycombinator.com/item?id=21415593)
+- [Reddit Discussion](https://www.reddit.com/r/SideProject/comments/dr10gi/command_line_r%C3%A9sum%C3%A9/)
