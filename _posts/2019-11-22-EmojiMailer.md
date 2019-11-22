@@ -20,9 +20,9 @@ After letting the domain languish for a while like all 3AM domains, I eventually
 
 As above, you can see it is functional and not overly ugly but doesn't really fit with the idea. I decided to approach a designer friend to help me design a new website with a focus on mobile and UX. I was blown away with the design and the new logo.
 
-<p class='embed-container'>
+<div class='embed-container'>
     <iframe src='https://www.youtube.com/embed/olEPVYVW0Mw?rel=0' frameborder='0' allowfullscreen></iframe>
-</p>
+</div>
 
 After implementing the new design and some light refactoring I really struggled to motivate myself to finish the project. I have always found the [last part of a project the hardest](https://news.ycombinator.com/item?id=17138794), it has been a slog to finish it. To keep myself motivated on releasing the bare minimum needed, I kept two lists, ones I need to launch and ones that I can do later. This helped me while I was in the weeds and thought "Feature X" would be cool, I would write it in my later list. The biggest motivation part of the project was receiving a postcard in the mail which I paid for through my website.
 
