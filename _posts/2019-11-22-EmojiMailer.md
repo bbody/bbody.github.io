@@ -20,7 +20,9 @@ After letting the domain languish for a while like all 3AM domains, I eventually
 
 As above, you can see it is functional and not overly ugly but doesn't really fit with the idea. I decided to approach a designer friend to help me design a new website with a focus on mobile and UX. I was blown away with the design and the new logo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/olEPVYVW0Mw?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/olEPVYVW0Mw?rel=0' frameborder='0' allowfullscreen></iframe>
+</div>
 
 After implementing the new design and some light refactoring I really struggled to motivate myself to finish the project. I have always found the [last part of a project the hardest](https://news.ycombinator.com/item?id=17138794), it has been a slog to finish it. To keep myself motivated on releasing the bare minimum needed, I kept two lists, ones I need to launch and ones that I can do later. This helped me while I was in the weeds and thought "Feature X" would be cool, I would write it in my later list. The biggest motivation part of the project was receiving a postcard in the mail which I paid for through my website.
 
@@ -47,7 +49,7 @@ In terms of areas of improvement, I think I definitely spent too much time on th
 That being said, there are heaps of aspects of this project that I am pleased with. Foremost how polished the design is and the fact that it is a fully integrated frontend and backend which I haven't done recently. I decided not to spend too much time on devops early on and rely on Heroku, which I believe helped me finish probably a week or two earlier. This obviously had the downside of cost and lack of control but I think it was worth the trade-off. As mentioned before I used React for this project without having used it before, I learnt a lot and surely will help with job opportunities. I even got to dog food my other project [Fit on a Floppy](https://fitonafloppy.website/?website=https://www.emojimailer.com/) for checking my website size!
 
 <p class="center">
-    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-22-EmojiMailer/site-size.jpg" alt="EmojiMail">
+    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-22-EmojiMailer/site-size.png" alt="EmojiMail">
 </p>
 
 EmojiMailer has been really fun and challenging to work on, seeing something quite polished and end-to-end has been really rewarding. However now it is time to move onto my next project!
@@ -55,5 +57,3 @@ EmojiMailer has been really fun and challenging to work on, seeing something qui
 - [Website](https://www.emojimailer.com/)
 - [Product Hunt post](https://www.producthunt.com/posts/emojimailer)
 - [Side Projects post](https://sideprojects.net/posts/Hs7XSKNJvK6XhaYvJ/emojimailer)
-
-https://news.ycombinator.com/item?id=17138794
