@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elgato Streamdeck
+title: Elgato Streamdeck worth it for programmers?
 subtitle: Not a review but an experience
 tags: Elgato Streamdeck productivity 
 categories: productivity
@@ -42,3 +42,5 @@ Some other keyboard commands I added were:
 So all in all I had fun playing with the Elgato Streamdeck, in some ways it is like the Macbook Pro touchpad. I didn't get a chance to play with the SDK to integrate it into a program or use any of its more advanced features.
 
 So as a developer would I buy it? Not likely, it is a little expensive and there is a diminished return for me using it for development. I am sure there are use cases I didn't think of though!
+
+[Amazon Affiliate link for Elgato Stream Deck](https://www.amazon.com/gp/product/B06XKNZT1P/ref=as_li_tl?ie=UTF8&tag=dormeoes-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XKNZT1P&linkId=2ffd1c1932774cfc4c5f3d626be0b471)
