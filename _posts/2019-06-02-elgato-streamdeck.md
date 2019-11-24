@@ -44,3 +44,4 @@ So all in all I had fun playing with the Elgato Streamdeck, in some ways it is l
 So as a developer would I buy it? Not likely, it is a little expensive and there is a diminished return for me using it for development. I am sure there are use cases I didn't think of though!
 
 [Amazon Affiliate link for Elgato Stream Deck](https://www.amazon.com/gp/product/B06XKNZT1P/ref=as_li_tl?ie=UTF8&tag=dormeoes-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06XKNZT1P&linkId=2ffd1c1932774cfc4c5f3d626be0b471)
+[Amazon Non-Affiliate link for Elgato Stream Deck](https://www.amazon.com/gp/product/B06XKNZT1P)
