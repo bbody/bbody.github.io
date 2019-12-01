@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Podcasts I listen to
-subtitle: What's going on it my ears
+subtitle: What's going on in my ears
 tags: podcasts
 categories: about-me
 ---
