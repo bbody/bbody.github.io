@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Knowing when to stop a project
+title: Knowing when to stop a personal project
 subtitle: Or How I Learned to Stop Coding and Love the Result
 tags: productivity projects personal-projects side-projects personal-projects
 categories: productivity
