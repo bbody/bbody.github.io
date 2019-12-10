@@ -58,4 +58,6 @@ Once I move an idea into *Complete* I like to have a ceremony. For me it usually
 ## ?. Clean up
 Once every few weeks I like to do a clean up on the board. Adding more ideas, rejecting ideas that I change my mind on, moving finished ideas to complete, moving items to in progress, reprioritizing, etc. A Kanban board is pointless if it isn't up to date.
 
-I hope you are able to find some use in my process. Like I said, it has been an evolving process which I've moulded for my purpose, but your mileage might vary and customization is required. Got any comments or feedback? Feel free to go over to the [Hacker News Discussion](https://news.ycombinator.com/item?id=21559581) and let me know your thoughts!
+I hope you are able to find some use in my process. Like I said, it has been an evolving process which I've moulded for my purpose, but your mileage might vary and customization is required.
+
+Got any comments or feedback? Feel free to go over to the [Hacker News Discussion](https://news.ycombinator.com/item?id=21559581) and let me know your thoughts!

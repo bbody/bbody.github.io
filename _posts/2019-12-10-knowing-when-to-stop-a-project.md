@@ -46,3 +46,5 @@ If you completely lose motivation in the project? That is also alright, you can 
 **Note:** The internet is an unpredictable place most of the time, due to the way the stars align your project may be overlooked, keep that in mind.
 
 This is based off my experiences with my personal projects, I found some dragging on with no real goal which really affected my motivation levels. So I worked through how to know when to end to avoid this. It has helped me with future projects and I hope it helps you with yours.
+
+Got any comments or feedback? Feel free to go over to the [Hacker News Discussion](https://news.ycombinator.com/item?id=21748786) and let me know your thoughts!
