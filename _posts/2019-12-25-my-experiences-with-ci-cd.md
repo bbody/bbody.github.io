@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Experiences with CI/CD
+title: My experiences with CI/CD
 subtitle: The team members who enjoys doing boring testing and deployments
 tags: devops ci/cd productivity projects productivity
 categories: devops
