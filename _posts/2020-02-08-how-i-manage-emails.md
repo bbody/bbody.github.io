@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I manage my emails
-subtitle: Getting to Inbox Zero with Gmail
+subtitle: Getting to inbox zero with Gmail
 tags: productivity emails inbox-zero google email gmail inbox
 categories: productivity
 ---
