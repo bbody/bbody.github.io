@@ -6,9 +6,9 @@ tags: developers productivity
 categories: projects
 ---
 
-I have wanted to write this article for more than five years, but I have struggled each time I have tried to write it. Recently, I felt a sense of clarity, so here are my thoughts. I was originally inspired by something a colleague said. When I worked for a bank, one day each year all IT staff we would spend a day in a branch helping the staff with their IT problems. He was amazed at how many issues the people in the branch experience and work around on a daily basis, summarizing it with the statement "We are setting them up for failure."
+I have wanted to write this article for more than five years, but I have struggled each time I have tried to write it. Recently, I felt a sense of clarity, so here are my thoughts. I was originally inspired by something a colleague said. When I worked for a bank, one day each year all IT staff we would spend a day in a branch helping the staff with their IT problems. He was amazed at how many issues the staff in the branch experience and work around on a daily basis, summarizing it with the statement "We are setting them up for failure."
 
-I have worked at several companies, each of which have their own weaknesses and most have had their own strengths. However, a few key experiences have shaped my thinking regarding developer productivity. It is well known that developers are not cheap, so why would organizations make it harder for them to work at their highest level of performance? It may not be as extreme as my experience at the bank branch, but why do we set developers up for failure?
+I have worked at several companies, each of which had their own weaknesses and most had their own strengths. However, a few key experiences have shaped my thinking regarding developer productivity. It is well known that developers are not cheap, so why would organizations make it harder for them to work at their highest level of performance? It may not be as extreme as my experience at the bank branch, but why do we set developers up for failure?
 
 <p class="center">
     <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2022-12-20-setting-developers-up-for-failure/angry-developer.jpg" alt="An angry developer about to hit his monitor with a keyboard" />
