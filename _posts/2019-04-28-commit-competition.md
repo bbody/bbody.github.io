@@ -55,7 +55,7 @@ I was actually blown away by how well the Vue CLI managed to glue everything tog
 
 ## Conclusion
 
-ALl in all this project has been an interesting experience, unlike most of my Github projects it was very quick and the scope was well contained. Although I didn't outline the features I wanted formally before or during build, as I was scratching my own itch I had a pretty good idea of what I wanted. I believe my previous projects, particularly [CMD Resume](https://www.brendonbody.com/2019/01/07/cmd-resume/) helped influence the way I approached this projects scope. Didn't want to get burnt twice. I got to play with VueJS and TypeScript, something which I had been meaning to do for years. I wish I had some words of wisdom on how to get started but for me I just pushed myself to get in done in a confined period of time and surprised myself.
+ALl in all this project has been an interesting experience, unlike most of my Github projects it was very quick and the scope was well contained. Although I didn't outline the features I wanted formally before or during build, as I was scratching my own itch I had a pretty good idea of what I wanted. I believe my previous projects, particularly [CMD Resume](https://brendonbody.blog/2019/01/07/cmd-resume/) helped influence the way I approached this projects scope. Didn't want to get burnt twice. I got to play with VueJS and TypeScript, something which I had been meaning to do for years. I wish I had some words of wisdom on how to get started but for me I just pushed myself to get in done in a confined period of time and surprised myself.
 
 Now onto my next project!
 

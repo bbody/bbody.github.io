@@ -6,7 +6,7 @@ tags: resume git job-hunting
 categories: tutorial
 ---
 
-For those of you familiar with my old blog and its [subsequent deletion](https://www.brendonbody.com/2016/02/21/hello-world-again/), you may be aware I did a tutorial on managing a resume with git. Well that post is well and truly gone but as I am currently applying for jobs I thought I'd share my approach again.
+For those of you familiar with my old blog and its [subsequent deletion](https://brendonbody.blog/2016/02/21/hello-world-again/), you may be aware I did a tutorial on managing a resume with git. Well that post is well and truly gone but as I am currently applying for jobs I thought I'd share my approach again.
 
 This article assumes you are proficient with git, if you aren't I highly suggest [learning git first](http://marklodato.github.io/visual-git-guide/index-en.html). I use LaTeX to write my resume, however similar approaches can be done with any other text based formats e.g. HTML, JSON, Markdown, etc. I would not suggest word as it can be [cumbersome to diff](https://support.office.com/en-us/article/compare-document-differences-using-the-legal-blackline-option-dbfc7351-4022-43a2-a0c4-54d1898702a0).
 
