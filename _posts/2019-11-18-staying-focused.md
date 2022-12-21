@@ -25,7 +25,7 @@ I find this helps me to get a view of where my ideas are as well as a central pl
 
 <p class="center">
     <a href="https://twitter.com/sonniesedge/status/913282229408866304">
-        <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-18-staying-focused/in-progress.png" alt="Kanban Board">
+        <img src="{{site.baseurl}}/images/2019-11-18-staying-focused/in-progress.png" alt="Kanban Board">
     </a>
 </p>
 
@@ -42,7 +42,7 @@ I have found this to be the most important step, granted it takes a lot of self 
 
 <p class="center">
     <a href="https://twitter.com/sonniesedge/status/913282229408866304">
-        <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-11-18-staying-focused/wip-limit.png" alt="WIP Limit on Kanban Board">
+        <img src="{{site.baseurl}}/images/2019-11-18-staying-focused/wip-limit.png" alt="WIP Limit on Kanban Board">
     </a>
 </p>
 

@@ -15,7 +15,7 @@ So first thing first, what is my goal for the week? Well for a while I have been
 
 What was my setup? Excluding my laptop, my most important tool is a [Nexstand](http://www.nexstand.com/) which is a godsend to my posture and my back in general. I then use a wireless keyboard and mouse with wireless noise cancelling earphones to help me concentrate. Last but not least, my ever loyal [Bullet Journal](https://bulletjournal.com/) for keeping track of tasks. It is a relatively simple setup trying to maximum productivity and minimise the burden of too much equipment while travelling.
 
-![My Setup](https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-06-22-digital-nomad-experiment/setup.jpeg)
+![My Setup]({{site.baseurl}}/images/2019-06-22-digital-nomad-experiment/setup.jpeg)
 
 So how did I go? From a friends suggestion I set a goal I wanted to achieve by the end of the week. Before started I then broke it up into smaller goals that would build up to my main goal, trying to achieve a small milestone each day. Over the course of the week I focused mostly on my Rails/React project, I had a few bouts of procrastination to break up my days. I mostly procrastinated on other projects I want to work on, so not a total loss. At the end of the week I managed to mostly reach my goal, I was pleasantly surprised. I also managed to get a fair bit of rest, taking my time to get out of bed and enjoying my weekends.
 

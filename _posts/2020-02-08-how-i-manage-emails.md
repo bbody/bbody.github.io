@@ -11,7 +11,7 @@ Talking to friends and peers, they are always surprised that my inbox usually ha
 Years ago I read an article about inbox zero and was inspired but didn't do much about it until [Inbox by Google](https://en.wikipedia.org/wiki/Inbox_by_Gmail) (RIP) came out. I followed the following process:
 
 <p class="center">
-    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2020-02-08-how-i-manage-emails/flowchart.png" alt="Flowchart of process" />
+    <img src="{{site.baseurl}}/images/2020-02-08-how-i-manage-emails/flowchart.png" alt="Flowchart of process" />
 </p>
 
 Before you start, there are some important features of Gmail to be aware of are:
@@ -31,7 +31,7 @@ The first step is a big cleanup, this step should only need to be done once. The
 7. Now that a large part of your subscriptions/notifications/etc. have been removed, going through your other emails should be less intimidating. Go through and archive emails that have been actioned/require no further action. Snooze emails that don't need your immediate attention to a more appropriate date. Continue until you hit inbox zero.
 
 <p class="center">
-    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2020-02-08-how-i-manage-emails/zero-inbox.png" alt="Screenshot of Gmail at inbox zero" />
+    <img src="{{site.baseurl}}/images/2020-02-08-how-i-manage-emails/zero-inbox.png" alt="Screenshot of Gmail at inbox zero" />
 </p>
 If this one doesn't feel rewarding you should checkout the [Google Inbox inbox zero](https://dribbble.com/shots/1850903-Inbox-Zero-Inbox-Animation)!
 

@@ -20,7 +20,7 @@ Since this project I have been mindful of when is the end. A few of my projects 
 Although this one might feel like you are taking the creativity out of the project but I found it effective. Initially write down the features and technologies you want to use, eventually adding bugs and changes. Review regularly, allowing you to have an updated view of your project and what the end result looks like. I like to use [ZenHub](https://www.zenhub.com/) as it gives me a kanban board using my Github issues. Particularly I use milestones to help me group tasks so I have stages, all leading to the final milestone.
 
 <p class="center">
-    <img src="https://raw.githubusercontent.com/bbody/bbody.github.io/master/_posts/images/2019-12-10-knowing-when-to-stop-a-project/zenhub.png" alt="ZenHub Screenshot">
+    <img src="{{site.baseurl}}/images/2019-12-10-knowing-when-to-stop-a-project/zenhub.png" alt="ZenHub Screenshot">
 </p>
 
 ## Necessity
