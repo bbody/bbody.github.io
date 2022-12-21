@@ -8,13 +8,13 @@ categories: coding
 
 Years ago during an interview with a startup I was shown some of the code base on Github. I don't remember any of the code but one thing that did stick out to me was the fact the commit messages had emojis. I asked the interviewer what it was for, the answer has stuck with me ever since.
 
-![CMD Resume]({{site.baseurl}}/images/2019-11-01-emojis-in-your-git/git-commits.png)
+![CMD Resume]({{site.baseurl}}/img/2019-11-01-emojis-in-your-git/git-commits.png)
 *[CMD Resume Git Commit Log](https://github.com/bbody/CMD-Resume/commits/master)*
 
 So why do people use emoji's in their git commits? Essentially it is to add more information about a commit. Imagine your website is having production problems, your boss is yelling at you, the pressure is on, frontend is broken and you are looking through the commit log to see which of the 20 commits today caused it. You've already gone through the JavaScript console and know that a file is missing. You see 🔥, a file was removed but its references were not. Don't forget to use 🐛 in your commit message! Essentially, the idea is to help quickly categorize commits, ideally in time of emergency being able to quickly find the responsible commit. I can't speak for large distributed repositories like [Atom](https://github.com/atom/atom), however for [CMD Resume](https://github.com/bbody/CMD-Resume) I only found using emojis helpful a few times over the course of nearly 500 commits.
 
 <p class="center">
-    <img src="{{site.baseurl}}/images/2019-11-01-emojis-in-your-git/gitmoji-card.png" alt="Gitmoji Card" />
+    <img src="{{site.baseurl}}/img/2019-11-01-emojis-in-your-git/gitmoji-card.png" alt="Gitmoji Card" />
 </p>
 
 Emoji commit schemas:

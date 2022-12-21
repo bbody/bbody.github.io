@@ -11,7 +11,7 @@ I have wanted to write this article for more than five years, but I have struggl
 I have worked at several companies, each of which had their own weaknesses and most had their own strengths. However, a few key experiences have shaped my thinking regarding developer productivity. It is well known that developers are not cheap, so why would organizations make it harder for them to work at their highest level of performance? It may not be as extreme as my experience at the bank branch, but why do we set developers up for failure?
 
 <p class="center">
-    <img src="{{site.baseurl}}/images/2022-12-20-setting-developers-up-for-failure/angry-developer.jpg" alt="An angry developer about to hit his monitor with a keyboard" />
+    <img src="{{site.baseurl}}/img/2022-12-20-setting-developers-up-for-failure/angry-developer.jpg" alt="An angry developer about to hit his monitor with a keyboard" />
 </p>
 
 One way that I have seen companies set their developers up for failure is by providing them with outdated or under-spec'd hardware. I'm not even talking about providing each developer with a top-of-the-line computer; I just mean something that can run an IDE and a local developer server. Some of you may be scoffing at this, but I have had the displeasure of working at a place where Visual Studio could not even run IntelliSense in a timely manner due to RAM limitations.

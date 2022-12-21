@@ -8,7 +8,7 @@ categories: productivity
 
 Through pure luck I recently managed to get an [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck) for free (Don't worry, this isn't a sponsored post). Despite a small foray into creating [YouTube videos](https://www.youtube.com/user/brendonbody/videos?view=0&sort=dd&shelf_id=0), I have never really got into video content creation let alone streaming. Having seen [Taran of Linus Tech Tips](https://youtu.be/vhPLhfP1b_s) use it for his own productivity, I got inspired. So instead of immediately selling it on, I decided to try it as a productivity tool for programming. This isn't a review, this is just my experience with it.
 
-![My Streamdeck]({{site.baseurl}}/images/2019-06-02-elgato-streamdeck/my-streamdeck.jpeg)
+![My Streamdeck]({{site.baseurl}}/img/2019-06-02-elgato-streamdeck/my-streamdeck.jpeg)
 
 After unboxing the Stream Deck I had a little play with the built in commands but System really caught my eye. It allows you to:
 
