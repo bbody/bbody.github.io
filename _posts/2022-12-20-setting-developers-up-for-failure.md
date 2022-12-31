@@ -3,7 +3,7 @@ layout: post
 title: Setting developer up for failure
 subtitle: Developers sitting in the slow lane
 tags: developers productivity
-categories: projects
+categories: productivity
 ---
 
 I have wanted to write this article for more than five years, but I have struggled each time I have tried to write it. Recently, I felt a sense of clarity, so here are my thoughts. I was originally inspired by something a colleague said. When I worked for a bank, one day each year all IT staff we would spend a day in a branch helping the staff with their IT problems. He was amazed at how many issues the staff in the branch experience and work around on a daily basis, summarizing it with the statement "We are setting them up for failure."
