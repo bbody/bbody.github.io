@@ -15,7 +15,7 @@ I love reading, but I'll admit that I'm not very consistent. I go through phases
 The following are the books I plan to read, roughly in the order that I plan to read them. Do I expect to finish all of them? No. Do I expect this list to change throughout the year? Most definitely. But as Winston Churchill once said, "Plans are of little importance, but planning is essential." Wish me luck!
 
 <p class="center">
-    <img src="{{site.baseurl}}/img/2022-01-14-books-i-plan-to-read-in-2023/bookcase.jpeg" alt="My book case filled with books" />
+    <img src="{{site.baseurl}}/img/2023-01-11-books-i-plan-to-read-in-2023/bookcase.jpeg" alt="My book case filled with books" />
 </p>
 
 ## Technical
