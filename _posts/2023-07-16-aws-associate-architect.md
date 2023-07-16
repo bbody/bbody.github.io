@@ -35,7 +35,7 @@ My focus then shifted to the Associate Architecture course, which was content-he
     <img src="{{site.baseurl}}/img/2023-07-16-aws-associate-architect/result.jpeg" alt="Practice exam results" />
 </p>
 
-While my scores in the Jon Bonso exams were less than stellar, these exams have a reputation for being tougher than the actual exam, giving me a glimmer of hope. Notwithstanding, I decided to boost my confidence by honing in on my weak areas and refining my understanding of certain products.
+While my scores in the Jon Bonso exams were less than stellar, these exams have a reputation for being tougher than the actual exam, giving me a glimmer of hope. Notwithstanding, I decided to boost my confidence by honing in on my weak areas, refining my understanding of certain products and reading a [cheat sheet](https://www.stellexgroup.com/blog/aws-solutions-architect-associate-saa-c03-cheat-sheet).
 
 Rather than revisiting the ACG course, I opted for the Stephane Maarek course. This course covered a few topics missed by the ACG course and seemed more exam-focused, making it more beneficial for my preparation. Post this course, I attempted the [official AWS practice exam](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf) but managed only 50%. However, a subsequent ACG practice exam saw a promising score of 91%.
 
