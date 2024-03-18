@@ -21,7 +21,7 @@ The above was taken in 2016 with my old [Nikon D3100](https://www.nikonusa.com/e
 My first port of call was to buy the same model as my old cameras again however, I found they were more expensive than what I had sold them for. So, illogically, I jumped to buying a new camera, settling on a Fujifilm mirrorless camera.
 
 <p class="center">
-    <img src="{{site.baseurl}}/img/2024-03-18-photography/taj_mahal.jpg" alt="Fujifilm XT-5" />
+    <img src="{{site.baseurl}}/img/2024-03-18-photography/xt5.jpg" alt="Fujifilm XT-5" />
 </p>
 Photo by <a href="https://unsplash.com/@haberdoedas?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Haberdoedas</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-camera-on-a-table-rakH4b_OiZ8?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
@@ -56,7 +56,7 @@ And when I say editing, I mean beyond cropping and changing exposure.
 There is a lot to learn, and I am not sure I am ready for that commitment yet.
 
 <p class="center">
-    <img src="{{site.baseurl}}/img/2024-03-18-photography/soocpp.jpg" alt="A photo i took" />
+    <img src="{{site.baseurl}}/img/2024-03-18-photography/sooc.jpg" alt="A photo i took" />
 </p>
 
 Another problem, like many new photographers, is that I got GAS (Gear Acquisition Syndrome).
