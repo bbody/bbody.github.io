@@ -18,7 +18,16 @@ In the past, I really enjoyed photography, and it meets my requirement of being 
 </p>
 
 The above was taken in 2016 with my old [Nikon D3100](https://www.nikonusa.com/en/nikon-products/product-archive/dslr-cameras/d3100.html). Unfortunately, I sold my old DSLR and Point and Shoot Digicam years ago when I lost interest in photography.
-My first port of call was to buy the same model as my old cameras again however, I found they were more expensive than what I had sold them for. So, illogically, I jumped to buying a new camera, settling on a Fujifilm mirrorless camera.
+My first port of call was to use my phone, however I found:
+
+- Using it can be distracting due to other apps
+- In one way I'd be trading one computer for another (And yes... I know digital cameras essentially have computers in them)
+- Messing with the exposure triangle can be frustrating in camera apps that allow you to
+- I missed the ergonomics and control right at your fingers
+
+An independent camera seemed like the solution to my problem.
+So initially I tried to buy the same model as my old cameras again however, I found they were more expensive than what I had sold them for.
+Then illogically, I jumped straight to buying a new camera, flirting with the idea of a Sony for a while but eventually ending up getting a Fujifilm mirrorless camera.
 
 <p class="center">
     <img src="{{site.baseurl}}/img/2024-03-18-photography/xt5.jpg" alt="Fujifilm XT-5" />
@@ -29,6 +38,7 @@ After a few in-person classes and a lot of practice, I have really found a love 
 I even dipped my toes into [film photography](https://www.flickr.com/photos/93902604@N05/collections/72157722673733820/) and using an older [Point and Shoot Digicam](https://www.flickr.com/photos/93902604@N05/collections/72157722635086099/) to get a 2000s effect.
 But for the most part, I've stuck to Straight out of Camera (SooC) on my Fujifilm mirrorless camera.
 Without sounding too cliché, it has become an extension of myself, and when I think of framing a photo, I often default to a 50mm full-body equivalent frame.
+Looking at photos and movies now, I have learnt a new respect for their framing and composition.
 
 <p class="center">
     <img src="{{site.baseurl}}/img/2024-03-18-photography/film.jpg" alt="Some pigeons in film photography" />
