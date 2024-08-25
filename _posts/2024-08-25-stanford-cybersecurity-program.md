@@ -14,19 +14,19 @@ Let's address the elephant in the room first: it is expensive... $3,250 USD. I w
 
 The course is self-paced and allows you to complete it over the course of a year from registration. You are required to complete 5 out of 6 elective courses; I completed all of them.
 
-[Foundations of Information Security:](https://online.stanford.edu/courses/xacs101-foundations-information-security) A decent introduction to the different parts of the course.
+[**Foundations of Information Security:**](https://online.stanford.edu/courses/xacs101-foundations-information-security) A decent introduction to the different parts of the course.
 
-[Using Cryptography Correctly:](https://online.stanford.edu/courses/xacs130-using-cryptography-correctly) Very math-heavy. I learned quite a bit about cryptography. I didn’t expect to enjoy this one, but I did.
+[**Using Cryptography Correctly:**](https://online.stanford.edu/courses/xacs130-using-cryptography-correctly) Very math-heavy. I learned quite a bit about cryptography. I didn’t expect to enjoy this one, but I did.
 
-[Writing Secure Code:](https://online.stanford.edu/courses/xacs131-writing-secure-code) This was mostly revision, but I did learn about some of the program analysis tools. This was the type of course I was most anticipating, and it is quite useful as a developer.
+[**Writing Secure Code:**](https://online.stanford.edu/courses/xacs131-writing-secure-code) This was mostly revision, but I did learn about some of the program analysis tools. This was the type of course I was most anticipating, and it is quite useful as a developer.
 
-[Exploiting and Protecting Web Applications:](https://online.stanford.edu/courses/xacs133-exploiting-and-protecting-web-applications) Although the assignments were very outdated, the practical aspect of writing exploits and then fixing them was great. Probably my favorite course in the program.
+[**Exploiting and Protecting Web Applications:**](https://online.stanford.edu/courses/xacs133-exploiting-and-protecting-web-applications) Although the assignments were very outdated, the practical aspect of writing exploits and then fixing them was great. Probably my favorite course in the program.
 
-[Mobile Security:](https://online.stanford.edu/courses/xacs215-mobile-security) I didn’t know much about mobile security going into this course. I ended up learning a lot of the basics of mobile security.
+[**Mobile Security:**](https://online.stanford.edu/courses/xacs215-mobile-security) I didn’t know much about mobile security going into this course. I ended up learning a lot of the basics of mobile security.
 
-[Network Security:](https://online.stanford.edu/courses/xacs255-network-security) The refresher on how the internet/networks work was useful, though I had covered it before. A lot of the security-specific content was new to me; I’m not sure if I will ever use it, but I’m glad I got my feet wet.
+[**Network Security:**](https://online.stanford.edu/courses/xacs255-network-security) The refresher on how the internet/networks work was useful, though I had covered it before. A lot of the security-specific content was new to me; I’m not sure if I will ever use it, but I’m glad I got my feet wet.
 
-[Cybersecurity and Executive Strategy:](https://online.stanford.edu/courses/xacs302-cybersecurity-and-executive-strategy) As I mentioned before, I only needed to complete 5 elective courses to earn the certificate and this was the one originally didn't plan to do. I didn’t expect to like this course, but I ended up learning a lot about cybersecurity from an executive perspective.
+[**Cybersecurity and Executive Strategy:**](https://online.stanford.edu/courses/xacs302-cybersecurity-and-executive-strategy) As I mentioned before, I only needed to complete 5 elective courses to earn the certificate and this was the one originally didn't plan to do. I didn’t expect to like this course, but I ended up learning a lot about cybersecurity from an executive perspective.
 
 One of the highlights of the course was the guest interviews with industry leaders. They were a nice addition, but not necessarily a significant selling point.
 
