@@ -39,7 +39,7 @@ Some other keyboard commands I added were:
 - Open Github
 - Open iTerm
 
-So all in all I had fun playing with the Elgato Streamdeck, in some ways it is like the Macbook Pro touchpad. I didn't get a chance to play with the SDK to integrate it into a program or use any of its more advanced features.
+So all in all I had fun playing with the Elgato Streamdeck, in some ways it is like the MacBook Pro Touch Bar. I didn't get a chance to play with the SDK to integrate it into a program or use any of its more advanced features.
 
 So as a developer would I buy it? Not likely, it is a little expensive and there is a diminished return for me using it for development. I am sure there are use cases I didn't think of though!
 
