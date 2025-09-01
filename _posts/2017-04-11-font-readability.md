@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Font Readability
-subtitle: Improving accessibility through better typography
+subtitle: Making your copy DRY
 tags: accessibility fonts
 categories: practical-accessibility
 ---
