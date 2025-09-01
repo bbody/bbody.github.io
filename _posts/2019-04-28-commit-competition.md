@@ -6,7 +6,7 @@ tags: project VueJS competition github TypeScript JavaScript
 categories: projects
 ---
 
-A few years ago I read an article on the positives of [Github streaks](https://medium.freecodecamp.org/lessons-from-my-month-long-github-commit-streak-b8f3167d34ac) which stuck with me. After softly pushing myself to follow this advice with only limited success, I decided to up the steaks with a bit of [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion) as motivation.
+A few years ago I read an article on the positives of [Github streaks](https://medium.freecodecamp.org/lessons-from-my-month-long-github-commit-streak-b8f3167d34ac) which stuck with me. After softly pushing myself to follow this advice with only limited success, I decided to up the stakes with a bit of [loss aversion](https://en.wikipedia.org/wiki/Loss_aversion) as motivation.
 
 <p class="center">
     <img src="{{site.baseurl}}/img/2019-04-28-commit-competition/commits.png" alt="Github commit heatmap" />
@@ -55,7 +55,7 @@ I was actually blown away by how well the Vue CLI managed to glue everything tog
 
 ## Conclusion
 
-ALl in all this project has been an interesting experience, unlike most of my Github projects it was very quick and the scope was well contained. Although I didn't outline the features I wanted formally before or during build, as I was scratching my own itch I had a pretty good idea of what I wanted. I believe my previous projects, particularly [CMD Resume](https://brendonbody.blog/2019/01/07/cmd-resume/) helped influence the way I approached this projects scope. Didn't want to get burnt twice. I got to play with VueJS and TypeScript, something which I had been meaning to do for years. I wish I had some words of wisdom on how to get started but for me I just pushed myself to get in done in a confined period of time and surprised myself.
+All in all this project has been an interesting experience, unlike most of my Github projects it was very quick and the scope was well contained. Although I didn't outline the features I wanted formally before or during build, as I was scratching my own itch I had a pretty good idea of what I wanted. I believe my previous projects, particularly [CMD Resume](https://brendonbody.blog/2019/01/07/cmd-resume/) helped influence the way I approached this projects scope. Didn't want to get burnt twice. I got to play with VueJS and TypeScript, something which I had been meaning to do for years. I wish I had some words of wisdom on how to get started but for me I just pushed myself to get it done in a confined period of time and surprised myself.
 
 Now onto my next project!
 
