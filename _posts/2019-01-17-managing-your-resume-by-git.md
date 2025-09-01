@@ -83,7 +83,7 @@ In this approach I like to think of it like a programming project. So LaTeX is t
 
 Optionally you could commit the code changes to this specific branch. I typically only push local non-master branches to my remote git repository if it is for a group of jobs e.g. frontend resume base.
 
-**Note:** Output by default is ignore by git.
+**Note:** Output by default is ignored by git.
 
 ### Conclusion
 
