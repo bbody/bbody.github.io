@@ -50,7 +50,7 @@ There are multiple methods of calling the translation from controller or templat
 <script src="https://gist.github.com/bbody/459c55670ec239c62175ee669d15069f.js?file=translation_methods.rb"></script>
 
 ## Calling it from Template
-The controller methods can be used in the templates; however, the notable addition is that you can add `t` to the start of an inline tag to denote that it is an externalized string, which you can see below. I find this a very efficient way to represent inline content in a template.
+The controller methods can be used in the templates, however, the notable addition is that you can add `t` to the start of an inline tag to denote that it is an externalized string, which you can see below. I find this a very efficient way to represent inline content in a template.
 
 ### Example
 <script src="https://gist.github.com/bbody/459c55670ec239c62175ee669d15069f.js?file=translation_methods.html.erb"></script>
