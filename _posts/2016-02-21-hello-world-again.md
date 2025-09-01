@@ -7,7 +7,7 @@ categories: blog-meta
 ---
 
 
-I'm back to blogging on [brendonbody.blog](http://brendonbody.blog/ "Dormeo Ergo Sum") after a 3-month hiatus. 
+So... I'm back to blogging on [brendonbody.blog](http://brendonbody.blog/ "Dormeo Ergo Sum") after a 3-month hiatus. 
 
 Instead of simply rebooting, I decided to rethink my approach to blogging. I documented this entire process on [Medium](https://medium.com/):
 
