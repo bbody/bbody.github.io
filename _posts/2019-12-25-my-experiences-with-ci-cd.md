@@ -105,7 +105,7 @@ Despite trying out different tools, at the moment I would say I am quite happy w
 
 ## Next
 
-Although I am happy with the CI/CD tools I currently use, if the opportunity arises, I would like to try other tools. Some that have caught my eye include:
+Although I am happy with the CI/CD tools I currently use, if the opportunity strikes, I would like to try other tools. Some that have caught my eye include:
 - [CodeShip](https://codeship.com/)
 - [Buildbot](https://buildbot.net/)
 - [Buildkite](https://buildkite.com/)
