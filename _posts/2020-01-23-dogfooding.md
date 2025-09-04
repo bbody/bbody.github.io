@@ -34,7 +34,7 @@ I have put Issue Embed onto 5 of my sites (not including the Issue Embed landing
 **Cons**
 
 - You probably aren't a typical use case, which might mean prioritizing features for yourself instead of your customers' use cases
-- Only makes sense if you are your own target customer; otherwise, you are just testing with an artificial scenario
+- Only makes sense if you are your own target customer, otherwise, you are just testing with an artificial scenario
 - As you probably have some insights into the design/terminology/intent of the product, you may overlook things that would not make sense to an outsider
 
 If it makes sense for your product and your users, I highly suggest trying to eat your own dog food. Just keep in mind you might not be the typical user!
