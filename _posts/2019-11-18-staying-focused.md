@@ -30,7 +30,7 @@ I find this helps me get a view of where my ideas are, as well as providing a ce
 </p>
 
 ## 3. Define
-To me, this is the hardest step. Each idea needs to be defined. The goal of the idea is to execute on it, but what is it exactly? I like to set [SMART Goals](https://corporatefinanceinstitute.com/resources/knowledge/other/smart-goal/) to help define what the end looks like. If a project's goal is too open-ended, it is easy to just keep plodding along and never really feel like you finish anything. This list of goals can be as long as you want, but please temper the goals based on whether you want them or think they will be useful. I find these goals often help with the project management aspect of setting up tasks.
+To me, this is the hardest step. Each idea needs to be defined. The goal of the idea is to execute on it, but what is it exactly? I like to set [SMART Goals](https://corporatefinanceinstitute.com/resources/knowledge/other/smart-goal/) to help define what the end looks like. If a project's goal is too open-ended, it is easy to just keep putting along and never really feel like you finish anything. This list of goals can be as long as you want, but please temper the goals based on whether you want them or think they will be useful. I find these goals often help with the project management aspect of setting up tasks.
 
 ## 4. Prioritize
 Now that you have everything down on your kanban board, it is time to prioritize. Within each column, prioritize with the more important/urgent tasks towards the top. I've found this helps with figuring out what to do first.
