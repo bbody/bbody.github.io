@@ -6,7 +6,7 @@ tags: blogging domains blog
 categories: blog-meta
 ---
 
-Last year, during a particularly hectic period, I neglected my email inbox and regrettably overlooked several warnings from my domain registrar about the impending expiration of my domain, *brendonbody.com*. I had owned this domain for over 10 years, and while it had expired once before, I was always able to reclaim it. This time, however, a [domain squatter](https://www.godaddy.com/resources/skills/what-is-domain-squatting-and-what-can-you-do-about-it) seized the opportunity and snatched it up.
+Last year, during a particularly hectic period, I neglected my email inbox and regrettably overlooked several warnings from my domain registrar about the impending expiration of my domain, *brendonbody.com*. I had owned this domain for over 10 years, and while it had expired once before, I was always able to reclaim it. This time, however, a [domain squatter](https://www.godaddy.com/resources/skills/what-is-domain-squatting-and-what-can-you-do-about-it) seized the opportunity and snapped it up.
 
 Faced with a minimum bid of $500 USD to reclaim my domain, I seriously contemplated whether maintaining a blog was worth it.
 
