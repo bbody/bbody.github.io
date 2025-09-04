@@ -27,7 +27,7 @@ My first port of call was to use my phone, however, I found:
 
 An independent camera seemed like the solution to my problem.
 So initially, I tried to buy the same models as my old cameras again. I however found they were more expensive than what I had sold them for.
-Then, illogically, I jumped straight to buying a new camera, flirting with the idea of a Sony for a while but eventually getting a Fujifilm mirrorless camera.
+Then, illogically, I jumped straight to buying a new camera, flirting with the idea of a Sony for a while but eventually ending up getting a Fujifilm mirrorless camera.
 
 <p class="center">
     <img src="{{site.baseurl}}/img/2024-03-18-photography/xt5.jpg" alt="Fujifilm XT-5" />
