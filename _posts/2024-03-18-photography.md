@@ -26,7 +26,7 @@ My first port of call was to use my phone, however, I found:
 - I missed the ergonomics and control right at your fingers
 
 An independent camera seemed like the solution to my problem.
-So initially, I tried to buy the same models as my old cameras again; however, I found they were more expensive than what I had sold them for.
+So initially, I tried to buy the same models as my old cameras again. I however found they were more expensive than what I had sold them for.
 Then, illogically, I jumped straight to buying a new camera, flirting with the idea of a Sony for a while but eventually getting a Fujifilm mirrorless camera.
 
 <p class="center">
