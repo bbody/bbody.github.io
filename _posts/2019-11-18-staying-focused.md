@@ -50,7 +50,7 @@ I have found this to be the most important step, granted it takes a lot of self-
 This is the fun part! Well, depending on how you view it. Grind towards the goals.
 
 ## 7. Fall off the wagon
-This is going to happen—you are going to fall off the wagon. It happens to me once in a while; don't worry about it. Maybe your prioritization is wrong. All I can really say is to re-evaluate your ideas' prioritization and the ideas in the *In Progress* column.
+This is going to happen, you are going to fall off the wagon. It happens to me once in a while; don't worry about it. Maybe your prioritization is wrong. All I can really say is to re-evaluate your ideas' prioritization and the ideas in the *In Progress* column.
 
 ## 8. Finish
 Once I move an idea into *Complete* I like to have a ceremony. For me it usually ends with a blog post (for example [CMD Resume](https://brendonbody.blog/2019/01/07/cmd-resume/), [Fit on a Floppy](https://brendonbody.blog/2019/11/13/fit-on-a-floppy/), [Multiline JavaScript Converter](https://brendonbody.blog/2019/11/12/multiline-javascript-converter/), [Commit Comp](https://brendonbody.blog/2019/04/28/commit-competition/)) and a nice meal. Choose another task and go back to Step 6!
