@@ -21,7 +21,7 @@ The learning resources I zeroed in on were:
 - [AWS Free Resources](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 - [FreeCodeCamp's AWS Certified Solutions Architect - Associate 2020](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
-I began my study journey with ACG's AWS Architecture Path, starting from scratch and progressing to the AWS Certified Solutions Architect - Associate (SAA-C03) course, selectively skipping sections like 'What is CLI?', 'Introduction to Python Scripting', and a few supplementary videos. Despite debating whether to bypass the AWS Certified Cloud Practitioner (CLF-C01) course, I decided to skim it for a comprehensive understanding of AWS services. Before the course, I scored 71% on a practice exam, which improved to 85% after reviewing unfamiliar sections.
+I embarked on my study journey with ACG's AWS Architecture Path, starting from scratch and progressing to the AWS Certified Solutions Architect - Associate (SAA-C03) course, selectively skipping sections like 'What is CLI?', 'Introduction to Python Scripting', and a few supplementary videos. Despite debating whether to bypass the AWS Certified Cloud Practitioner (CLF-C01) course, I decided to skim it for a comprehensive understanding of AWS services. Before the course, I scored 71% on a practice exam, which improved to 85% after reviewing unfamiliar sections.
 
 <p class="center">
     <img src="{{site.baseurl}}/img/2023-07-16-aws-associate-architect/progress.jpeg" alt="ACG progress in course" />
