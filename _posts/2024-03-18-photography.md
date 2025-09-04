@@ -18,7 +18,7 @@ In the past, I really enjoyed photography, and it meets my requirement of being 
 </p>
 
 The above was taken in 2016 with my old [Nikon D3100](https://www.nikonusa.com/en/nikon-products/product-archive/dslr-cameras/d3100.html). Unfortunately, I sold my old DSLR and Point and Shoot Digicam years ago when I lost interest in photography.
-My first port of call was to use my phone; however, I found:
+My first port of call was to use my phone, however, I found:
 
 - Using it can be distracting due to other apps
 - In one way, I'd be trading one computer for another (and yes... I know digital cameras essentially have computers in them)
