@@ -21,7 +21,7 @@ Although the project was started in 2016, I picked it up again in 2018. Unlike [
 
 Although this project is not as complex as CMD Resume, I did manage to learn quite a bit. I tried a few new frameworks, particularly Mocha/Chai, which I'd been itching to try for a while. While introducing tests, due to the project's manageable size, I was able to decouple logic from the UI using Browserify and write better tests.
 
-I do think I may have spent more time than was worthwhile on Multiline JavaScript Converter. This is particularly true since I can use ECMA6 in most of my projects now; however, I have found use for it with ASCII art in CMD Resume. I also went down the path of turning it into an [NPM package](https://www.npmjs.com/package/multilinejavascriptconverter), which leveraged the decoupling of logic and UI. The problem is that the other project I planned to use it for got scrapped.
+I do think I may have spent more time than was worthwhile on Multiline JavaScript Converter. This is particularly true since I can use ECMA6 in most of my projects now, however, I have found use for it with ASCII art in CMD Resume. I also went down the path of turning it into an [NPM package](https://www.npmjs.com/package/multilinejavascriptconverter), which leveraged the decoupling of logic and UI. The problem is that the other project I planned to use it for got scrapped.
 
 Overall, I think this project served an actual need I had, even if it was only a problem for a short time. I learned a lot; however, I think I went down too many fruitless paths. Like any project, it was a learning experience and has made me a better developer.
 
