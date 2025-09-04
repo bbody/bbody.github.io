@@ -7,7 +7,7 @@ categories: projects
 ---
 
 
-In my first frontend web developer job, I worked with AngularJS—yes, you read that right, AngularJS 1.x. Unfortunately, the build process couldn't be changed to transpile from ECMA6 to ECMA5, so no [ECMA6 Template Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) were available. I found myself trying to automate boring and repetitive tasks, similar to my previous testing role where I created a VNC monitor called [Pinger](https://github.com/bbody-old/Pinger).
+In my first frontend web developer job, I worked with AngularJS... yes, you read that right, AngularJS 1.x. Unfortunately, the build process couldn't be changed to transpile from ECMA6 to ECMA5, so no [ECMA6 Template Strings](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals) were available. I found myself trying to automate boring and repetitive tasks, similar to my previous testing role where I created a VNC monitor called [Pinger](https://github.com/bbody-old/Pinger).
 
 <script src="https://gist.github.com/bbody/edd58cdf424b184fd264d477c1fdcbeb.js"></script>
 
