@@ -61,4 +61,4 @@ Exam Results (in order of completion)
 7. Jon Bonso Associate Architect Exam 2 - 64%
 8. A Cloud Guru Associate Architect Exam 4 - 91%
 9. AWS Official Practice Exam - 50%
-10. AWS Solutions Architect - Associate Exam - 79.30%
+10. Official AWS Solutions Architect - Associate Exam - 79.30%
