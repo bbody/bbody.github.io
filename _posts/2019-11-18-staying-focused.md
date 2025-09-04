@@ -38,7 +38,7 @@ Now that you have everything down on your kanban board, it is time to prioritize
 ## 5. Constrain
 Those familiar with Kanban will be familiar with WIP Limits (Work in Progress limits), where a column has a limit on how many items can be in it. For my board, I use a limit of 2 on *In Progress* and 5 on *Promising*, which I have found to work for me. If you have too many tasks in these columns, move them to the previous columns. I would warn against having too liberal of a limit on *In Progress*, it is very important to limit the number of concurrent tasks.
 
-I have found this to be the most important step, though it takes a lot of self-control. For me, 2 ongoing tasks is enough to keep me focused while providing enough flexibility to do something else if I get bored.
+I have found this to be the most important step, granted it takes a lot of self-control. For me, 2 ongoing tasks is enough to keep me focused while providing enough flexibility to do something else if I get bored.
 
 <p class="center">
     <a href="https://twitter.com/sonniesedge/status/913282229408866304">
