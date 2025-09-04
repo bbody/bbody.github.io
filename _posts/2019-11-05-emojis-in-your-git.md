@@ -40,4 +40,4 @@ So why don't I use it for all my projects? As I mentioned before, I've only foun
 
 Although this might not be applicable in all situations, sometimes emojis won't be displayed, but by using shortcodes you can see the fallback text. For example: `:twisted_rightwards_arrows: Merge code`. So I've only been using it sparingly on a select few projects. I have been seeing productivity gains in the frontend + backend project I'm currently developing.
 
-As I sit here writing this post, I'm not sure how to sum it all up. I'm not sure if I would recommend using emojis in git commits - I haven't seen the productivity payoff yet, but I can see how it could be beneficial, particularly in the commercial arena. That being said, I definitely suggest giving it a try - it might be your thing.
+As I sit here writing this post, I'm not sure how to sum it all up. I'm not sure if I would recommend using emojis in git commits. I haven't seen the productivity payoff yet, but I can see how it could be beneficial, particularly in the commercial arena. That being said, I definitely suggest giving it a try, it might be your thing!
