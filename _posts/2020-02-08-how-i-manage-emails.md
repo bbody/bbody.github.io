@@ -16,7 +16,7 @@ Years ago, I read an article about inbox zero and was inspired, but I didn't tak
 
 Before you start, here are some important Gmail features to be aware of:
 - [Archiving](https://support.google.com/mail/answer/6576?co=GENIE.Platform%3DDesktop&hl=en): Essentially hides the email from your inbox, but it can still be searched and exists in your Archive tab
-- [Snoozing](https://support.google.com/mail/answer/7622010?co=GENIE.Platform%3DDesktop&hl=en): Postpones an email to "reappear" at a different date, e.g., pushing emails to appear in your inbox on Saturday so they don't clog your email during the week
+- [Snoozing](https://support.google.com/mail/answer/7622010?co=GENIE.Platform%3DDesktop&hl=en): Postpones an email to be "received" at a different date, e.g., pushing emails to appear in your inbox on Saturday so they don't clog your email during the week
 - [Keyboard Shortcuts](https://support.google.com/mail/answer/6594?co=GENIE.Platform%3DDesktop&hl=en): Not necessary, but can help you quickly manage your emails
 
 ## Initial Cleanup
